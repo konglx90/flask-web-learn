@@ -1,6 +1,6 @@
 #《Flask Web开发》前六章的代码
 
-###Run...
+### Run...
 
 创建虚拟环境`virtualenv env`
 
@@ -10,7 +10,7 @@
 
 迁移数据库`python hello.py db migrate`
 
-###Good parts
+### Good parts
 - 坚持使用虚拟环境
     + virtualenv env
     + source env/bin/activate
